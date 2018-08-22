@@ -1,6 +1,9 @@
 .App {
   text-align: center;
-  background-color: red;
+}
+
+section ul li {
+  list-style-type: none;
 }
 
 .App-logo {
