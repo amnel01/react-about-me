@@ -10,7 +10,12 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">About Andy</h1>
         </header>
-        <section>My name is Andy Nelson. I am currently in a coding bootcamp called Helio Training for the next several months. I'm very excited about what I am learning</section>
+
+        <section>
+          <img src="./image1.png"></img>
+          <p>My name is Andy Nelson. I am currently in a coding bootcamp called Helio Training for the next several months. I'm very excited about what I am learning</p>
+        </section>
+        
         <section>
           <h4>I am attending Helio Training because:</h4>
           <ul>
