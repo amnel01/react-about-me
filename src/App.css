@@ -41,3 +41,32 @@ section ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.work-history-items h2 {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.work-history-items p {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.work-history-items ul {
+  list-style-type: square;
+  margin: 0;
+  padding: 5px 50px;
+  text-align: left;
+}
+
+.work-history-items li {
+  margin: 5px;
+}
+

@@ -14,7 +14,7 @@ class HomePage extends Component {
         </header>
 
         <section>
-          <img src="./image1.png"></img>
+          {/* <img src="./image1.png"></img> */}
           <p>My name is Andy Nelson. I am currently in a coding bootcamp called Helio Training for the next several months. I'm very excited about what I am learning</p>
         </section>
         
